@@ -4,7 +4,7 @@ This repo is an example of how to use BugSplat's REST API to post error objects 
 1. Clone this repository or download the zip from the releases tab
 2. Open bugsplat.html with a web browser (Chrome, Firefox, Edge etc)
 3. Click the "Send Crash Report" button to post a crash report to BugSplat
-4. Navigate to BugSplat's [AllCrash](https://www.bugsplat.com/allcrash) page in your web browser
+4. Navigate to BugSplat's [Crashes](https://app.bugsplat.com/v2/crashes?database=Fred&c0=appName&f0=CONTAINS&v0=MyJavaScriptCrasher) page in your web browser
 5. When prompted to log in, use the username "Fred@bugsplat.com" and password "Flintstone"
 6. Click the ID of your crash to see crash details
 
